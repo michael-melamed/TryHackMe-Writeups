@@ -5,4 +5,4 @@ Documentation of my TryHackMe rooms and cybersecurity learning journey
 
 ## חדרים
 - [Basic Pentesting]()
-- [Intro to Offensive Security](https://github.com/michael-melamed/TryHackMe-Writeups/tree/main/Intro-to-Offensive-Security)
+- [Intro to Offensive Security](https://github.com/michael-melamed/TryHackMe-Writeups/TryHackMe-Room-Writeups/Intro-to-Offensive-Security/)
