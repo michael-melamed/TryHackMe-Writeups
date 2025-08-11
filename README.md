@@ -5,5 +5,3 @@ Documentation of my TryHackMe rooms and cybersecurity learning journey
 אני גם אציג כאן תקיפות ופגיעויות שחייבים להכיר, לפי OWSAP 10 ודירוגים נוספים.
 
 ## חדרים
-- [Basic Pentesting]()
-- [Intro to Offensive Security](https://github.com/michael-melamed/TryHackMe-Writeups/TryHackMe-Room-Writeups/Intro-to-Offensive-Security/)
